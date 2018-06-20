@@ -23,4 +23,4 @@ By the end of the curriculum I am hoping to have developed strong Mathematical a
 also have improved my over all programming skills.
 
 The **Specialization Courses** are mainly focussed on web development. As I am a full stack developer, I am 
-planning to improve my self more on that frontier.
+planning to improve my self more on that frontier. I am also targeting to be regular with my github commits, so that I can actually share my progress with everybody.
