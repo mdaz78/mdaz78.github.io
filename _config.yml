@@ -16,8 +16,7 @@
 title: Md Abu Zafar
 email: mdabuzafar78@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, and Welcome to my blog, My name is Zafar and I am a self taught programmer.
-  This blog is all about my journey to become better both as a person and as a developer.
+  This is where I write about code, building software, and growing as a self taught developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MdAbuZafar19
