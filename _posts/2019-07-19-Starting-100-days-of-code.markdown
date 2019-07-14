@@ -18,6 +18,6 @@ their tutorials are pretty good, and I am also starting a bootcamp from Monday, 
 be learning from the resources they suggest as well. 
 For vim I am planning to start with [learnvimscriptthehardway](http://learnvimscriptthehardway.stevelosh.com/), then move on to practical vim and 
 after that to modern vim both the books are by Drew Neil. I also plan to watch a vimcast every other day
-if I get time to do so.
+if I get time to do so. For doing data structures and algorithms I am planning to spend time solving problems on leetcode.
 
 I hope to blog about my learning every other weekend and hope to be regular with it. Fingers crossed.
